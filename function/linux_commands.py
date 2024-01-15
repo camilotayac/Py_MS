@@ -5,11 +5,12 @@ import shutil
 def delete_folder(name):
      shutil.rmtree(name)
 
-def create_folder(*folder_name):
-    for name in folder_name:
+def create_folder(name):
+        '''
+        Crear carpetas en linux con OS
+        '''
         if os.path.exists(name)==True:
-            delete_folder(name)
-            os.mkdir(name)
+            pass
         else:
             os.mkdir(name)
 
