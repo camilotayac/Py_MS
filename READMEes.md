@@ -9,7 +9,36 @@
 
 
 ## Manipulación de archivos
+v
+v
+v
+v
 
+v
+v
+v
+v
+v
+v
+v
+
+v
+v
+v
+v
+v
+v
+v
+v
+v
+
+v
+v
+v
+v
+v
+v
+v
 ### Descarga PDB
 ```bash
 python Py_MS dowloand-pdb <ID_1PDB ID_2PDB ID_3PDB>
