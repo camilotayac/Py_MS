@@ -2,6 +2,10 @@
 
 ## Instlación
 
+```bash
+git clone https://github.com/camilotayac/Py_MS.git
+```
+
 # 📕 ¿Qué se puede hacer?
 * [Manipulación de archivos](#Manipulación-de-archivos)
   * [Descargar PDB de *Protein data bank*](#Descarga-PDB)
