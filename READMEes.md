@@ -17,7 +17,7 @@ python Py_MS dowloand-pdb <ID_1PDB ID_2PDB ID_3PDB>
 # Ejemplo
 python Py_MS dowloand-pdb 3AKA 5FX0
 ```
-dowloand-pdb tiene dos parametros:
+##### dowloand-pdb tiene dos parametros:
 
 * -f -> que indica si queremos que se cree una carpeta 🗂 para guardar los archivos PDB. La carpeta tiene por defecto el nombre *dowloand_pdb*
 ```bash
