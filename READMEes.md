@@ -1,6 +1,6 @@
 # 👻 Py_MS es un programa que permite optimizar procesos de simulación molecular
 
-## Instlación
+# ⚙️ Instlación
 
 ```bash
 git clone https://github.com/camilotayac/Py_MS.git
