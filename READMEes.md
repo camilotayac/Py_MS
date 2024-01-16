@@ -4,6 +4,7 @@
 
 ```bash
 git clone https://github.com/camilotayac/Py_MS.git
+cd Py_MS
 ```
 
 # 📕 ¿Qué se puede hacer?
